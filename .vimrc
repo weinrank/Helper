@@ -11,3 +11,13 @@ set showmatch               " highlight matching [{()}]
 
 set incsearch               " search as characters are entered
 set hlsearch                " highlight matches
+set so=7
+set ignorecase
+set hlsearch
+set encoding=utf8
+set ffs=unix,dos,mac
+
+set nobackup
+set nowb
+set noswapfile
+
