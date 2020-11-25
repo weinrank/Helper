@@ -1,5 +1,5 @@
 #!/bin/sh
 brew update
 brew upgrade
-brew cask upgrade
+brew upgrade --cask
 brew cleanup
